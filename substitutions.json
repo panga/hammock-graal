@@ -1,0 +1,12 @@
+[
+  {
+    "annotatedClass": "hammock.graal.Substitutions",
+    "originalClass": "org.apache.geronimo.config.configsource.PropertyFileConfigSourceProvider",
+    "methods": [
+      {
+        "annotatedName": "resolvePropertyFiles",
+        "substitute": true
+      }
+    ]
+  }
+]

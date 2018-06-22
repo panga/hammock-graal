@@ -1,0 +1,26 @@
+[
+    {
+      "name": "ws.ament.hammock.bootstrap.owb.OWBBootstrapper",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "ws.ament.hammock.HammockConfigSourceProvider",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "org.apache.openwebbeans.se.SeInitializerFacade",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    },
+    {
+      "name": "ws.ament.hammock.bootstrap.owb.HammockSeContainerSelector",
+      "methods": [
+        { "name": "<init>", "parameterTypes": [] }
+      ]
+    }
+]
